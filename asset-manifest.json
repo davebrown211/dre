@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dre/static/css/main.b100e6da.chunk.css",
+    "main.js": "/dre/static/js/main.19fd8038.chunk.js",
+    "main.js.map": "/dre/static/js/main.19fd8038.chunk.js.map",
+    "runtime-main.js": "/dre/static/js/runtime-main.e161f6c6.js",
+    "runtime-main.js.map": "/dre/static/js/runtime-main.e161f6c6.js.map",
+    "static/js/2.7424dee9.chunk.js": "/dre/static/js/2.7424dee9.chunk.js",
+    "static/js/2.7424dee9.chunk.js.map": "/dre/static/js/2.7424dee9.chunk.js.map",
+    "index.html": "/dre/index.html",
+    "precache-manifest.87890bef5c9031865c3dd7e4c177de6d.js": "/dre/precache-manifest.87890bef5c9031865c3dd7e4c177de6d.js",
+    "service-worker.js": "/dre/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/dre/static/css/main.b100e6da.chunk.css.map",
+    "static/media/trollFace.jpg": "/dre/static/media/trollFace.c5093d23.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e161f6c6.js",
+    "static/js/2.7424dee9.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.19fd8038.chunk.js"
+  ]
+}
