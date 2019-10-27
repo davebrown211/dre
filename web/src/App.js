@@ -11,7 +11,7 @@ function App() {
           Dre Flores
         </p>
         <p>
-          Get on my level
+          Get on my level KID
         </p>
       </header>
     </div>
